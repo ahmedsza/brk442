@@ -9,7 +9,7 @@ Content will be continously added.
 
 ### Original Presentation and Session Resources
 
-The presentation delivered at the AI Tour in Johannesburg differed considerably from the one prepared for the event. 
+The presentation delivered at the AI Tour in Johannesburg differed considerably from the one delivered elsewhere. 
 You will find the original content at 
 - [Original Repo](https://aka.ms/BRK442GHrepo)
 - [Session Delivery Resources](https://github.com/microsoft/aitour26-BRK442-github-copilot-as-an-ai-agent-in-the-developer-workflow/tree/main/session-delivery-resources)
